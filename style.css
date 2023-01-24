@@ -1,0 +1,47 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+audio{
+    display: none;
+}
+
+.container{
+    background-color: #333;
+    /*padding: 5%;*/
+    width: 100%;
+    height: 100%;
+}
+
+.soundboard{
+    margin: auto;
+    padding: 2%;
+    border: 2px solid gray;
+    border-radius: 8px;
+    background-color: white;
+    max-width: fit-content;
+    max-height: fit-content;
+}
+
+.titulo-da-pagina{
+    color: white;
+    font-size: 3em;
+    text-align: center;
+}
+
+.botao{
+    max-width: fit-content;
+    max-height: fit-content;
+    padding: 5px;
+    background-color: orangered;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    box-shadow: 2px 3px #aaa;
+}
+
+.botao:active{
+    background-color: white;
+    color: orangered;
+    box-shadow: none;
+}
