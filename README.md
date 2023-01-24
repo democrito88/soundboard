@@ -7,7 +7,7 @@ Projeto de soundboard do curso "JavaScript para Web: Crie páginas dinâmicas" d
 | :sparkles: Nome        | **Soundboard**
 | :label: Tecnologias | html, css, javascript
 
-![](https://github.com/democrito88/soundboard/images/screenshot.png#vitrinedev)
+![](https://github.com/democrito88/soundboard/blob/master/images/screenshot.png#vitrinedev)
 
 ## Detalhes
 
